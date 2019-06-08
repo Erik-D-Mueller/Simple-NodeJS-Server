@@ -1,0 +1,19 @@
+{
+  "name": "fsn",
+  "version": "1.0.0",
+  "description": "First NodeJS server for local host 127.0.0.1",
+  "main": "Main.js",
+  "scripts": {
+    "test": "what"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-D-Mueller/Simple-NodeJS-Server.git"
+  },
+  "author": "Erik D Mueller",
+  "license": "SEE LICENSE IN HELL",
+  "bugs": {
+    "url": "https://github.com/Erik-D-Mueller/Simple-NodeJS-Server/issues"
+  },
+  "homepage": "https://github.com/Erik-D-Mueller/Simple-NodeJS-Server#readme"
+}
